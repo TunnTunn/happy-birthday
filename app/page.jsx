@@ -364,7 +364,7 @@ export default function Home() {
 
                 {/* Photo gallery */}
                 <h3 className="text-2xl font-semibold text-center mb-6 text-[#2c2026] font-['var(--font-dancing-script)']">
-                    Our Photo Gallery
+                    Ảnh xinh cụa em
                 </h3>
 
                 {/* More compact gallery with pagination logic */}
