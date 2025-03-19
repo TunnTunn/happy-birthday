@@ -305,12 +305,12 @@ export default function Home() {
                         </h2>
                         <div className="space-y-6 text-lg text-[#2c2026] pb-4">
                             <p>
-                                Hôm nay là ngày sinh nhật của em, đầu tiên thì anh muốn nói lời chúc mừng sinh nhật đến
-                                mẹ trẻ cụa anh. Tuổi mới, anh chúc em đầu tiên phải thật luôn mạnh khỏe, để ý hơn đến
-                                bản thân và sức khỏe của mình. Sau đó thì anh mong em phải luôn vui vẻ, hạnh phúc và bớt
-                                những lo âu trong cuộc sống, tận hưởng cái mình làm. Sau nữa thì là thành công trong con
-                                đường mà em chọn. Cuối cùng và cũng rất quan trọng đó là em phải iu anh thật nhiều nhiều
-                                nhiều nhiều nhiều nhiều nhiều nhiều...
+                                Hôm nay là sinh nhật thứ 22 của em, đầu tiên thì anh muốn nói lời chúc mừng sinh nhật
+                                đến mẹ trẻ cụa anh. Tuổi mới, anh chúc em đầu tiên phải thật luôn mạnh khỏe, để ý hơn
+                                đến bản thân và sức khỏe của mình. Sau đó thì anh mong em phải luôn vui vẻ, hạnh phúc và
+                                bớt những lo âu trong cuộc sống, tận hưởng cái mình làm. Sau nữa thì là thành công trong
+                                con đường mà em chọn. Cuối cùng và cũng rất quan trọng đó là em phải iu anh thật nhiều
+                                nhiều nhiều nhiều nhiều nhiều nhiều nhiều...
                             </p>
                             <p>
                                 Có thể em nghĩ rằng là, mình càng lớn thì cái sinh nhật nó không còn là cái gì quá là
